@@ -1,0 +1,3 @@
+Redirect URI
+The Authorization Code Flow needs you to add a redirect URI to your application at My Dashboard (navigate to your application and then [Edit Settings]).
+The redirect_uri argument or SPOTIPY_REDIRECT_URI environment variable must match the redirect URI added to your application in your Dashboard. The redirect URI can be any valid URI (it does not need to be accessible) such as http://example.com
